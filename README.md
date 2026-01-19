@@ -52,5 +52,4 @@ Relevant Coursework: Artificial Intelligence, Machine Learning
 ## Let's Connect
 
 - 📧 Email: [daniel.jones@idataworx.com](mailto:daniel.jones@idataworx.com)
-- 📱 Phone: (832) 520-9111
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniel-jones-ba6325337/)
